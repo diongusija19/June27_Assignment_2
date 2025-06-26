@@ -1,0 +1,11 @@
+* {
+    scroll-behavior: smooth;
+}
+
+body {
+    justify-content: center;
+}
+
+img {
+    width: 150px;
+}
